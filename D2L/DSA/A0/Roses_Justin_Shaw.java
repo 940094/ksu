@@ -1,0 +1,20 @@
+// Name: Justin Shaw
+// Class: CS 5040
+// Term: Summer 2019
+// Instructor: Dr. Haddad
+// Assignment: 0
+// IDE: Atom
+
+// Program Roses.java
+// Demonstrates the use of escape sequences for new line and tabs.
+public class Roses_Justin_Shaw
+{
+ // Prints a poem (of sorts) on multiple lines.
+ public static void main (String[] args)
+ {
+   System.out.println ("Roses are red,\n\tViolets are blue,\n" +
+     "Sugar is sweet,\n\tBut I have \"commitment issues\",\n\t" +
+     "So I'd rather just be friends\n\tAt this point in our " +
+     "relationship.");
+ }
+}
