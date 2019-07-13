@@ -1,3 +1,10 @@
+// Class: CS 5000
+// Term: Summer 2019
+// Name: Justin Shaw
+// Instructor: Dr. Haddad
+// Assignment: 10
+// IDE: Atom
+
 public abstract class GeometricObject {
 
   private String color = "white";

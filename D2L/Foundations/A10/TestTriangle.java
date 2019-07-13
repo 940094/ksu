@@ -161,6 +161,7 @@ public class TestTriangle
         }
 
     }
+
     private static double[] getValidNumbers() // program to get 3 valid user inputted doubles for sides of triangle
     {
         boolean allPositive = false;
@@ -177,6 +178,7 @@ public class TestTriangle
                     allPositive = false;
             }
         }
+        
         return triangleSides; // return an array of 3 doubles representing the 3 triangle sides
     }
 }
